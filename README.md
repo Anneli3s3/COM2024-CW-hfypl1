@@ -9,7 +9,7 @@ Additional function
 2. Additional Level
    I added a new level for the game which uses Titanium and Cement Bricks.
 3. Additional Brick
-   I added a new type of Brick, Titanium Brick which holds a stronger strength and needs longer time to break it.
+   I added a new type of Brick, Titanium Brick which holds lower posibility than the Steel Brick and needs longer time to break it.
 4. Additional Button 
    I added a new button, control button to allow the user to access the methods of playing the game.
 5. High-score List
